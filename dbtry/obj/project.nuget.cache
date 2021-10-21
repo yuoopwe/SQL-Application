@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+kpsXpAPC5euJygKwkpvPMWau4/3NN9Wb88GW9XmAkDMiYunug2sIN+yz+Lg4DTjmDf8wHTRri+dMARRV8GrjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\con16\\source\\repos\\dbtry\\dbtry\\dbtry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\con16\\.nuget\\packages\\npgsql\\5.0.10\\npgsql.5.0.10.nupkg.sha512",
+    "C:\\Users\\con16\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
